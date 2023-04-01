@@ -1,0 +1,2 @@
+require("rebelopsio")
+print("hello")
